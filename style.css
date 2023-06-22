@@ -1,0 +1,45 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ 
+
+button {
+    cursor: pointer;
+}
+
+#btn1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+#btn2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+
+#btn3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+
+#btn4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+
